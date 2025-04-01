@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Introduction-01/pom.xml" />
+        <option value="$PROJECT_DIR$/Extend-Thread-Class-02/pom.xml" />
+        <option value="$PROJECT_DIR$/Implement-Runable-Interface-03/pom.xml" />
+        <option value="$PROJECT_DIR$/Lambda-Experssion-04/pom.xml" />
+        <option value="$PROJECT_DIR$/Join-IsAlive-05/pom.xml" />
+        <option value="$PROJECT_DIR$/Thread-Priority-06/pom.xml" />
+        <option value="$PROJECT_DIR$/Synchronized-Keyword-07/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter-Thread-Communication-08/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Implement-Runable-Interface-03/src/main/java/org/Lambda-Experession-04/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
